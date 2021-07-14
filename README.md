@@ -4,8 +4,6 @@
 
 To reach this goal I've created some repos where I keep track of all the topics, progress and projects for the specific field I'm currently studing.
 
-</br> 
-
 ### [Rust](https://www.google.com)
 I've always wanted to learn a system programming language so I've decided to deep dive into [rust](https://www.rust-lang.org/). 
 
@@ -18,11 +16,11 @@ In this repo I'll try to better understand the tools and processes that aim to i
 ### [Cloud and Serverless](https://github.com/erik18xk) NRY.
 In this section I'll keep track of my progress in the open source cloud world. Eg: (FaaS, K8s, Kafka, Apache OpenWisk, Nginx)
 
+<br />
+
 Every page is/will be documented with all the resources I've used to improve my understanding and for every topic I'm planning to build real world projects.
 
 Hope someone will find this idea helpfull. 
-
-<br />
 
 Thanks, </br>
 
