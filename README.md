@@ -1,6 +1,6 @@
 # Hi there I'm Erik. 👋
 
-I'm a front end developer, but in my free-time I love to __challange my self__ in many disparate areas like backend development and devops solutions.
+I'm a front end developer, but in my free-time I love __challenging my self__ in many disparate areas like backend development and devops solutions.
 
 
 ## The Rust  Journey
